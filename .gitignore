@@ -1,0 +1,10 @@
+/Include
+/Lib
+/Scripts
+/share
+
+Assignments/Practical/PracticalNotebook1.pdf
+Assignments/Practical/PracticalNotebook2.pdf
+*/*/*.csv
+*/*.csv
+*.csv
